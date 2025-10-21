@@ -19,7 +19,7 @@ Proyek ini membantu saya memahami integrasi **Vue.js frontend** dengan **backend
 ## 🧰 Teknologi yang Digunakan
 - **Frontend:** Vue.js, Fetch API  
 - **Backend:** Node.js (Express.js)  
-- **Database:** PostgreSQL (sesuai video tutorial)  
+- **Database:** MySQL
 
 ---
 
